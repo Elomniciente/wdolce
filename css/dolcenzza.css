@@ -1,0 +1,6 @@
+#tm-intro-img {
+  background-image: url(../img/chilling-cafe-15.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 425px;
+}
